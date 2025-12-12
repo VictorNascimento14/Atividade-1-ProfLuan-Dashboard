@@ -19,7 +19,7 @@ O dashboard inclui elementos visuais dinâmicos, como gráficos, tabelas e contr
 3. Explore o dashboard e interaja com os elementos!
 
 ## Demonstração
-![Imagem do Projeto Funcionando](dashboard.png)
+![Dasboard Funcionando](dashboard.png)
 
 
 ## Contribuição
