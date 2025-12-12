@@ -19,9 +19,8 @@ O dashboard inclui elementos visuais dinâmicos, como gráficos, tabelas e contr
 3. Explore o dashboard e interaja com os elementos!
 
 ## Demonstração
-![Imagem do Projeto Funcionando](caminho/para/imagem.png)
+![Imagem do Projeto Funcionando](dashboard.png)
 
-*Substitua o caminho acima pela imagem do projeto em funcionamento.*
 
 ## Contribuição
 Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas funcionalidades. Abra uma issue ou envie um pull request!
